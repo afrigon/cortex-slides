@@ -27,20 +27,31 @@ class: center
 
 name: cortex
 
-slide qui explique c'est quoi cortex
+# Qui est Cortex
+
+- une entreprise de services qui offre des solutions informatiques sur mesure
+- Leader du marché nord-américain en terme de création d'**applications mobiles** et **web** ainsi qu'en technologies émergentes
+
+# Valeurs
+
+1. Amour
+2. Courage
+3. Excellence
+4. Plaisir
+5. Fierté
 
 ---
 
-name: goals
+name: global
 
 # Objectifs
 
 1. Améliorer la communication avec les collegues de travail
 2. Apprendre le fonctionnement des équipes de travail dans une entreprise d'envergure
 
----
+--
 
-name: project
+count: false
 
 # Projets
 
@@ -125,9 +136,11 @@ name: others
 
 ---
 
+class: center
+
 # Conclusion
 
-atteinte des objectifs
+<img style="height: 400px;" src="/static/images/crew.jpeg" />
 
 ---
 
@@ -135,5 +148,5 @@ template: style
 name: questions
 class: center
 
-# Question ?
+<h1 style="margin-top: 273px;">Question ?</h1>
 
