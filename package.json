@@ -1,0 +1,15 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "remarker build && cp -R static build",
+    "clean": "rm -rf build"
+  },
+  "author": "Alexandre Frigon",
+  "license": "MIT",
+  "dependencies": {
+    "remarker": "^1.10.0"
+  }
+}
