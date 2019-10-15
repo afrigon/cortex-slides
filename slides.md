@@ -46,7 +46,7 @@ name: global
 
 # Objectifs
 
-1. Améliorer la communication avec les collegues de travail
+1. Améliorer la communication avec les collègues de travail
 2. Apprendre le fonctionnement des équipes de travail dans une entreprise d'envergure
 
 --
