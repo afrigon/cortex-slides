@@ -29,7 +29,7 @@ name: cortex
 
 # Qui est Cortex
 
-- une entreprise de services qui offre des solutions informatiques sur mesure
+- Une entreprise de services qui offre des solutions informatiques sur mesure
 - Leader du marché nord-américain en terme de création d'**applications mobiles** et **web** ainsi qu'en technologies émergentes
 
 # Valeurs
@@ -46,7 +46,7 @@ name: global
 
 # Objectifs
 
-1. Améliorer la communication avec les collègues de travail
+1. Améliorer la communication avec mes collègues de travail
 2. Apprendre le fonctionnement des équipes de travail dans une entreprise d'envergure
 
 --
@@ -132,7 +132,7 @@ name: others
 
 - Mise à jour d'application iOS
 - Mise à jour du site web corporatif
-- Réglage de bogues dans quelques applications
+- Correction de bogues dans quelques applications
 
 ---
 
@@ -148,5 +148,5 @@ template: style
 name: questions
 class: center
 
-<h1 style="margin-top: 273px;">Question ?</h1>
+<h1 style="margin-top: 273px;">Questions ?</h1>
 
